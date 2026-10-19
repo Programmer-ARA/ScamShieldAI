@@ -1,0 +1,4 @@
+streamlit>=1.40,<2
+uagents
+python-dotenv>=1.0,<2
+pydantic>=2,<3
